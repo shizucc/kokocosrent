@@ -1,6 +1,8 @@
 Rencana Konten
 - maps event
 - Schedulling costume
+- Menggunaakan rest API
+- Menggunakan framework Django
 - sistem pemabayaran
   * Menggunakan QRIS
   * Shopepay
